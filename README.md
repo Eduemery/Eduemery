@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eduemery
+- 👋 Hi, I’m Eduardo
 - 👀 I’m interested in  start the first project
 - 📫 How to reach me  eduardoemery7@gmail.com
 
