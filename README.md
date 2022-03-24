@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Eduardo
-- 👀 I’m interested in  start the first project
+- 👋 Hi, I’m Eduardoo
+- 👀    Dentro do curso de ciências da computação eu tenho me interessado muito pela área de desenvolvimeno web front-end
 - 📫 How to reach me  eduardoemery7@gmail.com
 
 <!---
