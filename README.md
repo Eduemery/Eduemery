@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardoo
+- 👋 Hi, I’m Eduardo
 - 👀    Atualmente tenho me interessado muito pela  area de desenvolvimento web front-end
 - 📫 How to reach me  eduardoemery7@gmail.com
 - <div align="center">
